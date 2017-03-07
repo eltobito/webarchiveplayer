@@ -44,10 +44,10 @@ import socket
 
 
 #=================================================================
-PORT = 8090
+PORT = 7777
 PLAYER_URL = 'http://localhost:{0}/'
 
-PYWB_URL = 'https://github.com/ikreymer/pywb'
+PYWB_URL = ''
 
 
 #=================================================================
