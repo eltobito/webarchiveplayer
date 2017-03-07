@@ -463,7 +463,8 @@ def main():
 
     # Create Server
     server = WaitressServer(archiveplayer.application)
-    start_url = start_url.format(server.port)
+    #start_url = start_url.format(server.port)
+    start_url = ''
 
     if frame:
         frame.init_controls(contents, title, start_url)
